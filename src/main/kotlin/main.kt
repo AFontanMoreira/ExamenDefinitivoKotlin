@@ -24,6 +24,13 @@ fun main() {
         println("$contador = $it")
         contador++
     }
+    /**
+     * Apartado3
+     */
+
+    println("----------------------- Apartado 3 -----------------------")
+
+    Ejercicio3().impares(numerosAleaorios.aleatorios)
 
 
 }
